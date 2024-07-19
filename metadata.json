@@ -1,0 +1,8 @@
+{
+    "name": "Powdering",
+    "creator": "X45K",
+    "description": "hi",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": ["BloomCore", "PogData", "Amaterasu"]
+  }

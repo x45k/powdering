@@ -1,0 +1,80 @@
+[
+    {
+        "category": "Mining",
+        "settings": [
+            {
+                "type": 6,
+                "name": "powderDisplay",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "mithrilDisplay",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "gemstoneDisplay",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "glaciteDisplay",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "powderGui"
+            },
+            {
+                "type": 6,
+                "name": "twoxNotifier",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "abilityNotifiers",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "pickobulousNotifier",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "veinSeekerNotifier",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "pickobulousOverNotifier",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "veinSeekerOverNotifier",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "chestTracker",
+                "value": true
+            },
+            {
+                "type": 2,
+                "name": "chestTrackerGui"
+            },
+            {
+                "type": 6,
+                "name": "chestSpawnNotifier",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "goldenGoblinNotifier",
+                "value": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+- §aAdded: 2x powder notifier
+- §aAdded: ability notifiers
+- §aAdded: chest tracker
+- §aAdded: golden goblin spawn
